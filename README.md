@@ -17,4 +17,4 @@ Welcome to my GitHub profile! I'm a passionate web developer who loves to create
 
 ## 🌐 Connect With Me  
 - [LinkedIn](https://linkedin.com/in/yashpatel)   
-- 📧 Email: [your.email@example.com](mailto:yashbpatel20@gmail.com)  
+- 📧 Email: [Email](mailto:yashbpatel20@gmail.com)  
