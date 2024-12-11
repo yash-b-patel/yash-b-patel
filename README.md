@@ -16,5 +16,6 @@ Welcome to my GitHub profile! I'm a passionate web developer who loves to create
 ![Yash Patel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash-b-patel&show_icons=true&theme=radical)  
 
 ## 🌐 Connect With Me  
-- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://linkedin.com/in/patelyash77) 
+- [![LinkedIn](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg)](https://linkedin.com/in/patelyash77)
+
 - 📧 Email: [Email](mailto:yashbpatel20@gmail.com)  
