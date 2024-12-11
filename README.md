@@ -8,13 +8,13 @@ Welcome to my GitHub profile! I'm a passionate web developer who loves to create
 - 💞️ **Looking to Collaborate On**: Full-stack development, responsive design, or unique side projects  
 
 ## 🚀 Skills  
-- **Languages**: C,C++, JAVA, SQL
-- **Frameworks/Tools**: React, Angular, Flutter, Android Studio
+- **Languages**: C,C++,MongoDB, SQL
+- **Frameworks/Tools**: .Net, Angular, Android Studio
 - **Others**: Canva
 
 ## 📈 GitHub Stats  
 ![Yash Patel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash-b-patel&show_icons=true&theme=radical)  
 
 ## 🌐 Connect With Me  
-- [LinkedIn](https://linkedin.com/in/yashpatel)   
+- [LinkedIn](https://linkedin.com/in/patelyash77)   
 - 📧 Email: [Email](mailto:yashbpatel20@gmail.com)  
