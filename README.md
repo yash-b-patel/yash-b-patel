@@ -20,5 +20,6 @@ Welcome to my GitHub profile! I'm a passionate web developer who loves to create
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" width="40" height="40">
 </a>
 
-
-- 📧 Email: [Email](mailto:yashbpatel20@gmail.com)  
+<a href="mailto:yashbpatel20@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" alt="Email" width="40" height="40">
+</a>
